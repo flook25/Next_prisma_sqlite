@@ -529,7 +529,7 @@ npx shadcn-ui@latest add [component-name]
 
 โปรเจ็กต์นี้อยู่ภายใต้ [MIT License](LICENSE)
 
-## 👨‍💻 ผู้พัฒนา
+## 👨‍💻 ผู้พัฒนา (อาจารย์ฟลุคเองให้มา 555+🐥)
 
 - **ชื่อ:** Samit Koyom
 - **Email:** samitkoyom@gmail.com
